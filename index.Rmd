@@ -45,15 +45,15 @@ Self-employed
 ### PUBLILCATIONS
 
 <ul>
-<li>Ovi, M. R., Siddique, M. A. B., Ahammed, T., Chowdhury, M. A. B., & Uddin, M. J. (2024). Assessment of mental
+<li>**Ovi, M. R.**, Siddique, M. A. B., Ahammed, T., Chowdhury, M. A. B., & Uddin, M. J. (2024). Assessment of mental
 wellbeing of university students in Bangladesh using Goldberg’s GHQ-12: A cross-sectional study. Health Science
 Reports, 7(3). [https://doi.org/10.1002/hsr2.1948](https://doi.org/10.1002/hsr2.1948)
 
-<li>Doby, B. L., Casey, K., Ross-Driscoll, K., Rahman Ovi, M., Hossain Bhuiyea, M. S., Isty, I. A., & Lynch, R. J.
+<li>Doby, B. L., Casey, K., Ross-Driscoll, K., **Rahman Ovi, M.**, Hossain Bhuiyea, M. S., Isty, I. A., & Lynch, R. J.
 (2023). What is visible is fixable: Visual dashboards for multi-domain assessment of organ procurement organization
 performance. American Journal of Transplantation, 23(11). [https://doi.org/10.1016/j.ajt.2023.08.020](https://doi.org/10.1016/j.ajt.2023.08.020)
 
-<li>Siddique, M. A. B., Ovi, M. R., Ahammed, T., Chowdhury, M. A. B., & Uddin, M. J. (2022). Mental health
+<li>Siddique, M. A. B., **Ovi, M. R.**, Ahammed, T., Chowdhury, M. A. B., & Uddin, M. J. (2022). Mental health
 knowledge and awareness among university students in Bangladesh. Heliyon, 8(10).
 [https://doi.org/10.1016/j.heliyon.2022.e11084](https://doi.org/10.1016/j.heliyon.2022.e11084)
 
