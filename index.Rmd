@@ -12,6 +12,8 @@ links:
     url: "https://scholar.google.com/citations?hl=en&user=amYNTFMAAAAJ"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/ovirahman/"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Musaddiqur-Ovi"
 output:
   postcards::trestles
 ---
