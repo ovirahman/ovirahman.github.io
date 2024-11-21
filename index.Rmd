@@ -1,0 +1,74 @@
+---
+title: "Musaddiqur Rahman Ovi"
+image: "coverphoto.jpg"
+links:
+  - label: Email
+    url: "mailto:m.ovirahman@gmail.com"
+  - label: GitHub
+    url: "https://github.com/ovirahman"
+  - label: ORCiD
+    url: "https://orcid.org/0000-0002-2515-6189"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?hl=en&user=amYNTFMAAAAJ"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ovirahman/"
+output:
+  postcards::trestles
+---
+ 
+### EDUCATION
+
+##### Master of Science (MS) in Statistics | January 2023 – December 2023 <br>
+Shahjalal University of Science and Technology (SUST), Sylhet <br>
+
+##### Bachelor of Science (Honours) in Statistics | January 2016 – November 2022 <br>
+Shahjalal University of Science and Technology (SUST), Sylhet <br>
+
+
+### EXPERIENCE
+
+##### **Data Scientist** | January 2022 – December 2023 <br>
+Data Science & Business Intelligence Team <br>
+DOER Services Ltd., Dhaka. <br>
+Key Projects: R shiny BI applications <br>
+
+##### **Research Assistant** | September 2020 – September 2023 <br>
+Biostatistics, Epidemiology and Public Health Research Team <br>
+Department of Statistics, SUST, Sylhet, Bangladesh <br>
+Key Project: Mental Health Conditions of the University Students in Bangladesh <br>
+
+
+##### **Freelance Data Analyst** | January 2019 to August 2024
+Self-employed
+
+
+### PUBLILCATIONS
+
+<ul>
+<li>Ovi, M. R., Siddique, M. A. B., Ahammed, T., Chowdhury, M. A. B., & Uddin, M. J. (2024). Assessment of mental
+wellbeing of university students in Bangladesh using Goldberg’s GHQ-12: A cross-sectional study. Health Science
+Reports, 7(3). [https://doi.org/10.1002/hsr2.1948](https://doi.org/10.1002/hsr2.1948)
+
+<li>Doby, B. L., Casey, K., Ross-Driscoll, K., Rahman Ovi, M., Hossain Bhuiyea, M. S., Isty, I. A., & Lynch, R. J.
+(2023). What is visible is fixable: Visual dashboards for multi-domain assessment of organ procurement organization
+performance. American Journal of Transplantation, 23(11). [https://doi.org/10.1016/j.ajt.2023.08.020](https://doi.org/10.1016/j.ajt.2023.08.020)
+
+<li>Siddique, M. A. B., Ovi, M. R., Ahammed, T., Chowdhury, M. A. B., & Uddin, M. J. (2022). Mental health
+knowledge and awareness among university students in Bangladesh. Heliyon, 8(10).
+[https://doi.org/10.1016/j.heliyon.2022.e11084](https://doi.org/10.1016/j.heliyon.2022.e11084)
+
+</ul>
+
+
+### R PACKAGE
+Ovi, M. R. (2022). bangladesh: Provides Ready to Use Shapefiles for Geographical Map of Bangladesh. In
+CRAN: Contributed Packages. [https://doi.org/10.32614/CRAN.package.bangladesh](https://doi.org/10.32614/CRAN.package.bangladesh)
+
+### TECH SKILLS
+**Proficient**: R programming, Data Analysis, Data Visualization Design, R Shiny <br>
+**Basic**: Docker, SQL, python, GIS, Java, JavaScript
+
+
+
+<hr />
+<p style="text-align: center; font-size: 10px;">Made using: <a href="https://cran.r-project.org/web/packages/postcards/index.html">postcards</a></p>
